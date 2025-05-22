@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,8 +10,8 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm sandra hany</h1>
-<h3 align="center">A passionate computer science student from cairo</h3>
+<h1 align="center">Hi 👋, I'm sandra hany</h1>
+<h5 align="center">A passionate computer science student from cairo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandrahany00&label=Profile%20views&color=0e75b6&style=flat" alt="sandrahany00" /> </p>
 
@@ -32,5 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandrahany00&show_icons=true&locale=en" alt="sandrahany00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandrahany00&" alt="sandrahany00" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandrahany00&theme=dark&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandrahany00&theme=dark&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a> -->
 
