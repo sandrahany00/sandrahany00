@@ -54,27 +54,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap&theme=dark" alt="Frontend"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,php&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,&theme=dark" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,mongodb,mysql,postgresql,oracle&theme=dark" alt="Backend & DB"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,oracle&theme=dark" alt="Backend & DB"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,figma,opencv,pytorch,qt&theme=dark" alt="Tools & AI"/>
+  <img src="https://skillicons.dev/icons?i=git,figma,opencv,qt&theme=dark" alt="Tools & AI"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> Currently Working On
-
-<table align="center">
-<tr>
-<td>🌐 Full Stack Web Projects with <b>React + Node.js</b></td>
-<td>🤖 Machine Learning with <b>Python + PyTorch</b></td>
-</tr>
-<tr>
-<td>🎨 UI/UX Design using <b>Figma</b></td>
-<td>📊 Data Analysis with <b>Pandas + Scikit-learn</b></td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
