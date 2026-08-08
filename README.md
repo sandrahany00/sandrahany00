@@ -52,12 +52,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3z0sgg575&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap&theme=dark" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap&theme=dark" alt="Frontend"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,&theme=dark" alt="Languages"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,oracle&theme=dark" alt="Backend & DB"/>
-  <br/>
   <img src="https://skillicons.dev/icons?i=git,figma,opencv,qt&theme=dark" alt="Tools & AI"/>
 </div>
 
